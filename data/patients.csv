@@ -1,0 +1,21 @@
+user_id,first_name,last_name,city,dietary_preference,medical_condition,cgm_reading
+1,Danielle,Johnson,Johnberg,vegan,Type 2 Diabetes,86
+2,Jill,Rhodes,New Roberttown,veg,Hypertension,387
+3,Clayton,Hall,New Jamesside,vegan,Type 2 Diabetes,231
+4,Robert,Cole,Lisatown,veg,Hypertension,139
+5,Katherine,Moore,Petersonberg,vegan,Hypertension,70
+6,Jason,Gallagher,North Noahstad,non-veg,Hypertension,194
+7,Melanie,Munoz,Lake Stephenville,veg,None,188
+8,Teresa,Gray,Mariastad,veg,Pre-diabetes,106
+9,Barbara,Bush,Lake Jeremyport,non-veg,Pre-diabetes,306
+10,Tracie,Wyatt,South Joshuastad,non-veg,Obesity,111
+11,Francisco,Kelly,Jacquelineland,vegan,Pre-diabetes,292
+12,Chelsea,Jackson,East Steven,vegan,Hypertension,306
+13,Joseph,Schaefer,Lake Mark,veg,Pre-diabetes,100
+14,Kayla,Brown,Port Leslieview,non-veg,Pre-diabetes,196
+15,Carl,Gentry,Jasonfort,non-veg,Pre-diabetes,335
+16,Randall,Rocha,Thomasberg,vegan,None,98
+17,John,Hoffman,Juliechester,vegan,None,142
+18,Rachael,Ross,East William,non-veg,None,329
+19,Christopher,Williams,East Courtneychester,non-veg,Type 2 Diabetes,138
+20,Candace,Cruz,Riceside,non-veg,Pre-diabetes,373
